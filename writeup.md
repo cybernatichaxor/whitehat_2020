@@ -20,7 +20,8 @@ Prog1                           Prog            100    WhiteHat{Y0u_h4v3_4_Sm4rt
 
 ### Challenge
 
-> PROGRAMING - WHITEHAT GRANDPRIX 06:
+```
+PROGRAMING - WHITEHAT GRANDPRIX 06:
 
 --> COUNT THE NUMBER OF POSSIBLE TRIANGLES <--
 
@@ -40,7 +41,7 @@ OUTPUT : 3
     
 n = 16
 Answer:
-
+```
 > nc 15.164.75.32 1999
 
 
