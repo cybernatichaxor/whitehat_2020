@@ -12,7 +12,7 @@ WhiteHat Grand Prix - 06 - 2020
 Title                         Category        Points  Flag
 ----------------------------- --------------- ------- ---------------------------------------
 Prog1                           Prog            100    WhiteHat{Y0u_h4v3_4_Sm4rt_Br41n}
-
+```
 ## Prog1
 
 * **Category:** Prog
