@@ -55,6 +55,7 @@ The first function was from https://www.geeksforgeeks.org/find-number-of-triangl
 
 **Flag**
 ```
-WhiteHat{Y0u_h4v3_4_Sm4rt_Br41n}
+Plain Text: WhiteHat{Y0u_h4v3_4_Sm4rt_Br41n}
+SHA1: WhiteHat{e6bee01defdbcb5fab218342855b49b1b3e6fe8b}
 ```
 ---
