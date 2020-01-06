@@ -1,7 +1,12 @@
+#############################
+#Author:    @cybernatichaxor
+#Date:      5th Jan 2020
+#############################
+
 from pwn import *
 import math
 
-
+# Count the number of triangles using the sum method
 def CountTriangles(n): 
     count = 0; 
       
@@ -17,6 +22,7 @@ def CountTriangles(n):
                 l += 1;  
     return count;
 
+# Count the number of triangles using the formula method
 def CountTriangles2(n):
     if(n <= 4):
         return 0
