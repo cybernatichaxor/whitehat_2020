@@ -51,7 +51,7 @@ Answer:
 [prog1.py](/writeupfiles/prog1.py)
 
 If you look at the python code above, I've got 2 functions called CountTriangles() and CountTriangles2().
-The first function was from https://www.geeksforgeeks.org/find-number-of-triangles-possible/. This was a very slow method for what we want since it used an array of non-sequencial integers. In our case, we are given a sequence from 1 to N. I first counted the triangles from N=1 to N=11 to look for patterns. What I found was a pattern 3,7,13,22,34,50,70,95,etc. After doing a bit of research, came across https://oeis.org/A002623. After a bit of reading modified some forumulas to make it work for this challenge. With this new formula, I defined the second function. Then the rest was just python programming using pwntools.
+The first function was from https://www.geeksforgeeks.org/find-number-of-triangles-possible/. This was a very slow method for what we want since it used an array of non-sequencial integers. In our case, we are given a sequence from 1 to N. I first counted the triangles from N=1 to N=11 to look for patterns. What I found was a pattern 3,7,13,22,34,50,70,95,etc. After doing a bit of research, came across https://oeis.org/A002623. After a bit of reading, I modified some forumulas to make it work for this challenge. With this new formula, I defined the second function. Then the rest was just python programming using pwntools.
 
 **Flag**
 ```
